@@ -1,0 +1,6 @@
+{
+  "name": "Binary Tree Traversal Visualizer",
+  "description": "An interactive educational tool to visualize, build, and animate binary tree traversals including standard and reverse post-order, pre-order, and in-order algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
